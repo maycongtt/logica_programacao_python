@@ -1,0 +1,5 @@
+print ("nome; Maycon")
+print ("idade; 19")
+print ("cidade; Teresina")
+print ("curso; Desenvolvimento do Sistema")
+print ("ano de ingresso; 2026")
