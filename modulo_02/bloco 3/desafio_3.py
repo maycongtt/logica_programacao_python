@@ -35,9 +35,9 @@ for i in range(quantidade):
         print(f"situação: {aluno[2]}")
         print("-" * 50)
         
-    maior_media = {max(medias)}
-    menor_media = {min(medias)}
-    media_geral = {sum(medias) / len(medias)}
+    maior_media = {max(maior)}
+    menor_media = {min(menor)}
+    media_geral = {sum(media) / len(media)}
 
 print(f"maior media da turma: {maior_media:.2f}")
 print(f"menor media da turma: {menor_media:.2f}")
